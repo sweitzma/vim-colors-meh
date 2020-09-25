@@ -19,7 +19,7 @@ pack, or use a plugin manager like
 [vim-plug](https://github.com/junegunn/vim-plug), e.g.
 
 ```viml
-Plug 'davidosomething/vim-colors-meh'
+Plug 'sweitzma/vim-colors-meh'
 colorscheme meh
 ```
 
